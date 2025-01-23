@@ -2,7 +2,7 @@ Dentro da pasta:
 
 git init 			--- incializa o git, cria uma pasta git dentro da pasta selecionada, caso esteja (master), mudar para (main)
 
-git branch -m master main 	--- muda de master para main
+git branch -m master main 	--- muda de master para main, talves M maiusculo
 
 git add .   			---  manda para stage...
 
@@ -10,16 +10,16 @@ git status 			--- mostra o estatus
 
 git commit -m "mensagem" 	--- Explica o que foi feito
 
+com a pasta já criada no github...
 
-git branch -m master main 	--- muda de master para main.. importante
+git remote add origin https://github.com/CaioDevAssis/teste.git --- claro com o nome do projeto, e n teste como aqui...
 
-git push origin master 		--- Manda pro github, importante de se fazer
+git push - u origin main 		--- Manda pro github, importante de se fazer
 
-git branch -m master main 	--- muda de master para main
+aqui acaba a inicialização do git.
 
-git add .   			---  manda para stage...
+Já trabalhando...
 
-git status 			--- mostra o estatus
+git add .  --- manda para stage
 
-git commit -m "mensagem" 	--- Explica o que foi feito
 
