@@ -21,5 +21,8 @@ aqui acaba a inicialização do git.
 Já trabalhando...
 
 git add .  --- manda para stage
+git status ---´para modificações
+git commit --- para comentários
+git push -u origin main --- para subir
 
 
