@@ -14,7 +14,7 @@ com a pasta já criada no github...
 
 git remote add origin https://github.com/CaioDevAssis/teste.git --- claro com o nome do projeto, e n teste como aqui...
 
-git push - u origin main 		--- Manda pro github, importante de se fazer
+git push -u origin main 		--- Manda pro github, importante de se fazer
 
 aqui acaba a inicialização do git.
 
@@ -22,7 +22,18 @@ Já trabalhando...
 
 git add .  --- manda para stage
 git status ---´para modificações
-git commit --- para comentários
+git commit -m "mensagem" --- para comentários
 git push -u origin main --- para subir
+
+obs - comando 'checkout' altera a branch que está seguindo
+git checkout nomedabranch, ou main
+
+obs - comando 'merge' junta a branch `branch principal
+git merge nomeDaBranch
+
+
+
+
+
 
 
